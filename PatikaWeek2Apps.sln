@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraikForOrnekleri", "PraikForOrnekleri\PraikForOrnekleri.csproj", "{F4EEB9D1-27E8-4D63-8895-1105DAE05B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraikForOrnekleri", "PraikForOrnekleri\PraikForOrnekleri.csproj", "{F4EEB9D1-27E8-4D63-8895-1105DAE05B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik-WhileApps", "Pratik-WhileApps\Pratik-WhileApps.csproj", "{A96E2BA9-6D63-4317-B276-93AD73414319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik-WhileApps", "Pratik-WhileApps\Pratik-WhileApps.csproj", "{A96E2BA9-6D63-4317-B276-93AD73414319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik-While vs Do-While", "Pratik-While vs Do-While\Pratik-While vs Do-While.csproj", "{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A96E2BA9-6D63-4317-B276-93AD73414319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A96E2BA9-6D63-4317-B276-93AD73414319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A96E2BA9-6D63-4317-B276-93AD73414319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
