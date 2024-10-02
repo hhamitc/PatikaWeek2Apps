@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik-WhileApps", "Pratik-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik-While vs Do-While", "Pratik-While vs Do-While\Pratik-While vs Do-While.csproj", "{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik-YolArkadasi-TatilUygulamasi", "Pratik-YolArkadasi-TatilUygulamasi\Pratik-YolArkadasi-TatilUygulamasi.csproj", "{C1FA8B44-607E-433A-B8E9-0891280B6A6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F2BDA57-C3FD-4C9D-9C54-20A419F950F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FA8B44-607E-433A-B8E9-0891280B6A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FA8B44-607E-433A-B8E9-0891280B6A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FA8B44-607E-433A-B8E9-0891280B6A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FA8B44-607E-433A-B8E9-0891280B6A6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
