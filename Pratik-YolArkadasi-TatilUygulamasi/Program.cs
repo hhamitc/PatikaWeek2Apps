@@ -55,13 +55,22 @@
                 }
 
             }
-            #endregion  
+            #endregion
 
             #region Kişi Sayısı
             //Kişi sayısını alıyoruz.
-            Console.Write("\nKaç kişi için bir tatil planlıyoruz?: ");
 
-            int kisiSayisi = int.Parse(Console.ReadLine());
+
+            //int kisiSayisi = int.Parse(Console.ReadLine());
+
+            int kisiSayisi = 0;
+            do
+            {
+                Console.Write("\nKaç kişi için bir tatil planlıyoruz?: ");
+                int.TryParse(Console.ReadLine(), out kisiSayisi);
+            }
+            while (!(kisiSayisi > 0));
+
 
             Console.WriteLine("-----------------------------------");
             Console.WriteLine($"Anlaşıldı,{kisiSayisi} kişi için planlıyoruz. Teşekkürler.");
