@@ -28,11 +28,11 @@
             //Rastgele bir sayı oluşturan ve bu sayının 2 ye bölümünden kalanı değer olarak döndüren bir metod 
 
             //Çağırma
-            int result = GenerateRandomNumber(1, 100);
+            int result = GenerateRandomNumber();
             Console.WriteLine($"Sayının 2 ye bölümünden kalan: {result}");
 
             //Metod oluşturma
-            static int GenerateRandomNumber(int min, int max)
+            static int GenerateRandomNumber(int min = 1, int max = 100)
             {
                 Random random = new Random();
                 int randomNumber = random.Next(min, max);
