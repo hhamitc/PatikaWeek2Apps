@@ -1,4 +1,4 @@
-# Patika+ Back-End Web Geliştirme Eğitimi - 2. Hafta Sonu Örnek Soruları
+# Patika+ Back-End Web Geliştirme Eğitimi - 2. Haftas Kapanış Örnek Soruları
 
 Merhaba,  
 Bu repo, Patika+ Back-End Web Geliştirme eğitiminin ikinci haftası sonundaki örnek soruların cevaplarını içermektedir. Sorular aşağıdaki gibidir ve sırayla çözülmüştür. her çözümün içerisinde kendi sorusu da yorum satırı olarak yer almaktadır.
